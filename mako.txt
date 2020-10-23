@@ -1,7 +1,10 @@
-#
+# 2020/10/23
 
 
 celsius = [10, 35, 21, 43]
 fahrenheit = [round(temperture * 1.8, 1) + 32 for temperture in celsius]
 
 
+
+
+## test
