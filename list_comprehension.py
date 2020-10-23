@@ -3,5 +3,3 @@
 
 celsius = [10, 35, 21, 43]
 fahrenheit = [round(temperture * 1.8, 1) + 32 for temperture in celsius]
-
-print(fahrenheit)
